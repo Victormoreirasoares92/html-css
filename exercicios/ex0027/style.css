@@ -1,0 +1,35 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(156, 245, 156);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: green;
+}
+h1#principal{
+    text-align: center;
+}
+h2{
+    color: rgb(4, 82, 4);
+}
+p#teste{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
+.teste1{
+    text-align: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: purple;
+
+}
+.teste2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rebeccapurple;
+}
+.teste3{
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: royalblue;
+}

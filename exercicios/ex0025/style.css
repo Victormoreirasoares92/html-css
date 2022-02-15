@@ -1,0 +1,29 @@
+@charset "UTF-8";
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: linear-gradient(to left, blue, rgb(67, 67, 236), rgb(95, 95, 243),rgb(6, 6, 175));
+}
+main{
+ background-color: white;
+ box-shadow: 10px 10px 10px black;
+ border-radius: 10px;
+}
+h1,h2{
+font-family: 'Times New Roman', Times, serif;
+
+
+/*
+Medidas Absolutas:
+cm, mm , m , in , px , pt
+
+Medidas Relativas:
+em (altura m de uma fonte), ex(altura x de uma fonte), rem, vw (largura da wildport (tela), vh (altura da wilport)
+
+16px geralmente 1em.
+Normalmente as fontes ja tem 16 px de tamanho.
+
+Use sempre medias em px ou em 
+*/
+}
